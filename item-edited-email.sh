@@ -20,7 +20,8 @@ Subject: VAULT Item Shared by CCA Communications
 
 Hello,
 
-The following VAULT item has been shared by Communications: ${ITEM}
+The following VAULT item has been shared with the CCA Communications deparment by the program's chair:
+${ITEM}
 
-This means that the item is visible to all CCA staff and faculty and that the media contained in the item *may* be used for promotional purposes. If you have questions about this, contact CCA's Communications department at their ${REPLY_ADDR} address.
+This means that the item is visible to all CCA staff and faculty and that the media contained in the item *may* be used for promotional purposes. You still retain copyright over the work. If you have questions about this, contact CCA's Communications department at their ${REPLY_ADDR} address.
 EmailDocument
